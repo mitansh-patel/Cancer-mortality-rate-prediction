@@ -11,3 +11,6 @@ The techiniques used are :
   4. Lasso
   5. Support Vector Machines (kernel = rbf, poly, linear)
   6. Decision Tree
+
+The dataset can be found at:
+https://data.world/nrippner/ols-regression-challenge
