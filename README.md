@@ -14,3 +14,6 @@ The techiniques used are :
 
 The dataset can be found at:
 https://data.world/nrippner/ols-regression-challenge
+
+I will be applying dimensionality reduction techniques going further and I will also work on improving the performance of the models.
+
